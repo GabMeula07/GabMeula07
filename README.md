@@ -4,7 +4,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GabMeula07&show_icons=true&count_private=true&hide_border=true&title_color=1c9997&icon_color=007476&text_color=a0c8c3&bg_color=0d1117" alt="Gabriel Meula github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabMeula07&layout=compact&hide_border=true&title_color=1c9997&text_color=a0c8c3&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabMeula07&layout=donut&hide_border=true&title_color=1c9997&text_color=a0c8c3&bg_color=0d1117" />
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GabMeula07&theme=react-dark)](https://github.com/GabMeula07/github-readme-activity-graph)

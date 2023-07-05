@@ -7,7 +7,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabMeula07&layout=compact&hide_border=true&title_color=1c9997&text_color=a0c8c3&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GabMeula07)](https://github.com/GabMeula07/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GabMeula07&theme=react-dark)](https://github.com/GabMeula07/github-readme-activity-graph)
 
 <div align="center"> 
 <a href="https://instagram.com/gab_meula?igshid=ZDdkNTZiNTM=" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>

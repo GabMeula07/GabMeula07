@@ -17,3 +17,5 @@
   <code><img title="PHP" height="25" src="images/php.svg"></code>
 </p>
 <hr>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabMeula07&layout=compact&bg_color=121823&border_color=010409)

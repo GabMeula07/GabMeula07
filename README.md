@@ -20,5 +20,5 @@
 <div display="flex">
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabMeula07&layout=compact&bg_color=121823&border_color=010409)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GabMeula07&custom_title=This%20is%20a%20title&&border_color=010409&hide_border=true&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GabMeula07&custom_title="Commits"&&border_color=010409&hide_border=true&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>

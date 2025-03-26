@@ -1,4 +1,8 @@
+
 <h3 align="center">Welcome!</h3>
+<p>My name is Gabriel Meula, I'm Data Engineer Jr. <br> 
+I live in São Paulo, Brazil. <p>
+
 
 ###
 
@@ -35,3 +39,6 @@
 </div>
 
 ###
+
+
+

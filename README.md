@@ -1,10 +1,14 @@
 
 # Hello There 
-I'm and I study Data Engineering and Analytics. The purpose of this profile is storage my projects and my ideas 
+I'm and I study Web Development. The purpose of this profile is storage my projects and my ideas 
 
 ## skills :stars:
  - Python
+ - FastAPI
+ - Java
+ - SpringBoot
  - PostgreSQL
+ - MongoDB
  - Docker
  - Apache Airflow
 

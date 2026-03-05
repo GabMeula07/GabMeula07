@@ -28,15 +28,7 @@ I am studying Web Development. The purpose of this profile is to store my projec
 ---
 
 ### 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/GabMeula07">
-    <img src="https://github-readme-stats.vercel.app/api?username=GabMeula07&show_icons=true&theme=transparent&hide_border=true&title_color=3670A0&icon_color=3670A0" alt="GitHub Stats" height="170"/>
-  </a>
-  <a href="https://github.com/GabMeula07">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabMeula07&layout=compact&theme=transparent&hide_border=true&title_color=3670A0" alt="Top Languages" height="170"/>
-  </a>
-</div>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=GabMeula07&show_icons=true)
 
 
 
